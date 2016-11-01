@@ -6,3 +6,5 @@ Ryan Fellows
 Thomas "The Kid" Lings
 
 Joe "Chicken Fingers" Dadd
+
+Lewis Ricky
