@@ -1,0 +1,17 @@
+8/11: Complete UserInterface - no functionality atm
+Login/Register Page
+Main Page
+Members page 
+   - payment/balance 
+   - submit a claim
+   - history of payments/claims
+Admin page
+   - List all members
+   - List oustanding balances
+   - List claims
+   - List provisional member applications (havent paid membership)
+   - Process upgrade when payment made
+   - Suspend/resume membership
+   - report annual turnover
+16/11: Functionality 
+28/11: final submission
