@@ -3,8 +3,8 @@ Enterprise Systems Development Assignment 2016
 
 Ryan "Fun Size Armbar" Fellows
 
-Lhomas "The Kid" Tings
+Thomas "The Kid" Lings
 
-Joe "G.O.A.T" Dadd
+Joe "Chicken Fingers" Dadd
 
-Ricky "The machine" Lewis
+Lewis "The machine" Ricky
