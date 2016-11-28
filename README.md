@@ -1,10 +1,10 @@
 # ESD-Project
 Enterprise Systems Development Assignment 2016
 
-Ryan "Prince Charming" Fellows
+Ryan "" Fellows
 
-Thomas "The Kid" Lings
+Lhomas "The Kid" Tings
 
-Joe "Chicken Fingers" Dadd
+Joe "G.O.A.T" Dadd
 
 Ricky "The machine" Lewis
